@@ -1,7 +1,7 @@
 # Book settings
 title: APEX Stats
 author: David Schuster
-logo: jupyter_book/logo.png  # Updated path
+logo: logo.png  # Relative path to the logo inside the jupyter_book folder
 
 # Force re-execution of notebooks on each build.
 execute:
@@ -14,7 +14,7 @@ latex:
 
 # Add a bibtex file for citations
 bibtex_bibfiles:
-  - jupyter_book/references.bib  # Updated path
+  - references.bib  # Relative path to the bibtex file inside the jupyter_book folder
 
 # Repository settings
 repository:
@@ -28,5 +28,5 @@ html:
   use_repository_button: true
 
 # URL settings for Netlify (optional for custom domain)
-url: ""  # Netlify URL
+url: "https://apexstats.netlify.app"  # Netlify URL
 baseurl: ""  # Custom domain
