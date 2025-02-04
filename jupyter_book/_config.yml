@@ -1,6 +1,3 @@
-# Theme settings
-theme: jekyll-theme-minimal
-
 # Book settings
 title: APEX Stats
 author: David Schuster
@@ -21,15 +18,15 @@ bibtex_bibfiles:
 
 # Repository settings
 repository:
-  url: https://github.com/michellebacareinke/APEX_stats_book  # GitHub repository URL
-  path_to_book: ""  # Path to book (no sub folder, root directory)
-  branch: gh-pages  # Branch deploying from
+  url: https://github.com/michellebacareinke/jupyter-book  # GitHub repository URL
+  path_to_book: ""  # Path to book folder (root directory)
+  branch: main # Branch for deployment
 
 # GitHub buttons for issues and repository
 html:
   use_issues_button: true
   use_repository_button: true
 
-# URL settings for GitHub Pages
-url: "https://michellebacareinke.github.io"  # GitHub Pages URL
-baseurl: "/APEX_stats_book"  # GitHub repository name
+# URL settings for Netlify (optional for custom domain)
+url: ""  # Netlify URL
+baseurl: ""  # Custom domain
