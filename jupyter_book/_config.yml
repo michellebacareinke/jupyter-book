@@ -1,7 +1,7 @@
 # Book settings
 title: APEX Stats
 author: David Schuster
-logo: logo.png
+logo: jupyter_book/logo.png  # Updated path
 
 # Force re-execution of notebooks on each build.
 execute:
@@ -14,13 +14,13 @@ latex:
 
 # Add a bibtex file for citations
 bibtex_bibfiles:
-  - references.bib
+  - jupyter_book/references.bib  # Updated path
 
 # Repository settings
 repository:
   url: https://github.com/michellebacareinke/jupyter-book  # GitHub repository URL
-  path_to_book: ""  # Path to book folder (root directory)
-  branch: main # Branch for deployment
+  path_to_book: "jupyter_book"  # Path to book folder
+  branch: main  # Branch for deployment
 
 # GitHub buttons for issues and repository
 html:
