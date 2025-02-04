@@ -1,4 +1,3 @@
-(section-label)=
 ## Central Tendency
 <img src="https://www.publicdomainpictures.net/pictures/260000/velka/soccer-football-player-american.jpg" width="400"/>
 
@@ -58,5 +57,3 @@ In addition to the size of the distribution, the distance of the outlier from th
 In summary, both the number of scores in the distribution and the outlier's distance from the mean determine how much the mean is affected. In larger distributions, the mean is somewhat resistant to the influence of realistic outliers.
 
 Unlike the mean, other measures of central tendency, i.e., the median and mode, are less impacted by outliers. In all, you should be skeptical of the mean whenever the distribution includes outliers.
-
-Reference section example: [cetnral tendency](cetnral_tendency.md)
