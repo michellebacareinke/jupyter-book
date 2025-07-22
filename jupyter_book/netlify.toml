@@ -1,8 +1,7 @@
 [build]
   base = "jupyter_book"
   command = "jupyter-book build ."
-  publish = "jupyter_book/_build/html"
-
+  publish = "_build/html"
 
 [build.environment]
   PYTHON_VERSION = "3.10"
