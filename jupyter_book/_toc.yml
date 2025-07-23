@@ -9,4 +9,5 @@ chapters:
 - file: freq_dist
 - file: Frequency_Distributions
 - file: central_tendency
+- file: Central_Tendency
 - file: clt
