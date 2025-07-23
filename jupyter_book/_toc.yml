@@ -6,6 +6,7 @@ root: intro
 chapters:
 - file: background
 - file: learn_outcome
+- file: Data_and_Measurement
 - file: freq_dist
 - file: Frequency_Distributions
 - file: central_tendency
