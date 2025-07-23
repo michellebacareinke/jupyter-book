@@ -3,3 +3,8 @@ sphinx
 myst-parser
 matplotlib
 numpy
+pandas
+seaborn
+scipy
+statsmodels
+pingouin
