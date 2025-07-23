@@ -7,5 +7,8 @@ chapters:
 - file: background
 - file: learn_outcome
 - file: Data_and_Measurement
+  title: Data and Measurement
 - file: Frequency_Distributions
+  title: Frequency Distributions
 - file: Central_Tendency
+  title: CentralTendency
