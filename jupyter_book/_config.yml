@@ -1,20 +1,20 @@
 # Book settings
 title: APEX Stats
 author: David Schuster
-logo: logo.png  # Relative path to the logo inside the jupyter_book folder
+logo: logo.png  # Path to logo in jupyter_book folder
 
-# Force re-execution of notebooks on each build.
+# Notebook execution (can change to force w/ no quotes)
 execute:
-  execute_notebooks: force
+  execute_notebooks: "off"
 
-# Define the name of the latex output file for PDF builds
+# Define name of latex output file for PDF builds
 latex:
   latex_documents:
     targetname: book.tex
 
-# Add a bibtex file for citations
+# Add bibtex file for citations
 bibtex_bibfiles:
-  - references.bib  # Relative path to the bibtex file inside the jupyter_book folder
+  - references.bib  # Path to bibtex file in jupyter_book folder
 
 # Repository settings
 repository:
