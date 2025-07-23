@@ -3,11 +3,13 @@
 
 format: jb-book
 root: intro
+title: Welcome
 chapters:
 - file: background
+  title: About
 - file: Data_and_Measurement
   title: Data and Measurement
 - file: Frequency_Distributions
   title: Frequency Distributions
 - file: Central_Tendency
-  title: CentralTendency
+  title: Central Tendency
