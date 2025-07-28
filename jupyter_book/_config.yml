@@ -30,3 +30,7 @@ html:
 # URL settings for Netlify (optional for custom domain)
 url: "https://apexstats.netlify.app"  # Netlify URL
 baseurl: ""  # Custom domain
+
+launch_buttons:
+  thebe: true
+  binderhub_url: https://mybinder.org
